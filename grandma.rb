@@ -4,6 +4,7 @@ def speak_to_grandma(string)
     return "I LOVE YOU TOO PUMPKIN!"
   elsif string == "Hi Nana, how are you?"
     return "HUH?! SPEAK UP, SONNY!"
+  elsif string == "Hi"
   end
 end
 # Whatever you say to grandma, she should respond with
